@@ -13,7 +13,7 @@ This workflow demonstrates how to build, optimize, deploy, monitor, and serve a 
 
 ## 🏗️ Architecture Overview
 
-![](./images/architechture_ML/architecture.png)
+![](./images/architechture/architecture.png)
 
 ## 🔄 Overview of Workflow
 
